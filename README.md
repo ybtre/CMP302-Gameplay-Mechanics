@@ -2,6 +2,11 @@
 
 Reupload of my CMP302 project for University.
 
+<br/>
+![Header Image](demo.gif)
+
+<br/>
+
 # Report
 ## Purpose
 More often than not if you play a game today there will be some form of resource management system and/or a cost associated with your actions. If you want to cast a spell, you will most likely need some form of Energy/Mana/Rage etc. If you want to construct a building, you will most likely need Wood, Stone, Gold or any other resource decided on by the developers. Even Cooldowns are a form of resource management, they help balance high impact vs low impact abilities, while at the same time encouraging use of different abilities. The aim of the project was to establish the basis for one such system which could later be extended and improved based on the needs of the developer.
